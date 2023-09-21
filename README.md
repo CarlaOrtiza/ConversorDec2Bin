@@ -25,4 +25,8 @@ estándar de las industrias desde el año 1500, cuando un impresor
 
 ## Imagen y emoji
 ![gato universitario meme](https://imagenes.diariodenavarra.es/files/image_477_265/uploads/2021/02/18/60ae5c9db9f42.jpeg)
-**Vamos a tocar música**:saxophone::bug:
+
+> [!NOTE]
+> Vamos a tocar música :saxophone::bug:
+
+________________________________________________________________________________________________________________________
